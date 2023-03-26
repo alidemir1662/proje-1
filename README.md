@@ -6,6 +6,6 @@ Bitcoin Ön Yüz
 
 HTML5 ve CSS3 ile ileri Animasyon Teknolojileri
 
-<h2>Ekren GİF</h2>
+<h2>Ekran GİF</h2>
 
 ![](ekran.gif)
